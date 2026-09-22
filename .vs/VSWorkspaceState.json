@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\AiChat",
+    "\\backend\\AiChat\\Agent",
+    "\\backend\\AiChat\\Agent\\utils",
+    "\\backend\\config",
+    "\\backend\\rooms\\migrations"
+  ],
+  "SelectedNode": "\\db.sql",
+  "PreviewInSolutionExplorer": false
+}

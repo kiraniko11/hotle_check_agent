@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\init_data.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:init_data.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\AiChat\\Agent\\utils\\llm_config.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\AiChat\\Agent\\utils\\llm_config.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\AiChat\\Agent\\hotel_tools.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\AiChat\\Agent\\hotel_tools.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\db.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:db.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\config\\settings.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\config\\settings.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\rooms\\models.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\rooms\\models.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "db.sql",
+              "DocumentMoniker": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\db.sql",
+              "RelativeDocumentMoniker": "db.sql",
+              "ToolTip": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\db.sql",
+              "RelativeToolTip": "db.sql",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-11T10:31:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env.example",
+              "DocumentMoniker": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\.env.example",
+              "RelativeDocumentMoniker": "backend\\.env.example",
+              "ToolTip": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\.env.example",
+              "RelativeToolTip": "backend\\.env.example",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-11T10:14:03.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "settings.py",
+              "DocumentMoniker": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\config\\settings.py",
+              "RelativeDocumentMoniker": "backend\\config\\settings.py",
+              "ToolTip": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\config\\settings.py",
+              "RelativeToolTip": "backend\\config\\settings.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-11T10:12:30.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "models.py",
+              "DocumentMoniker": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\rooms\\models.py",
+              "RelativeDocumentMoniker": "backend\\rooms\\models.py",
+              "ToolTip": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\rooms\\models.py",
+              "RelativeToolTip": "backend\\rooms\\models.py",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-11T10:11:23.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "llm_config.py",
+              "DocumentMoniker": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\AiChat\\Agent\\utils\\llm_config.py",
+              "RelativeDocumentMoniker": "backend\\AiChat\\Agent\\utils\\llm_config.py",
+              "ToolTip": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\AiChat\\Agent\\utils\\llm_config.py",
+              "RelativeToolTip": "backend\\AiChat\\Agent\\utils\\llm_config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-11T10:08:18.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hotel_tools.py",
+              "DocumentMoniker": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\AiChat\\Agent\\hotel_tools.py",
+              "RelativeDocumentMoniker": "backend\\AiChat\\Agent\\hotel_tools.py",
+              "ToolTip": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\backend\\AiChat\\Agent\\hotel_tools.py",
+              "RelativeToolTip": "backend\\AiChat\\Agent\\hotel_tools.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAfAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-11T10:04:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "init_data.sql",
+              "DocumentMoniker": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\init_data.sql",
+              "RelativeDocumentMoniker": "init_data.sql",
+              "ToolTip": "D:\\S024 \u57FA\u4E8EPython\u002BLangGraph\u7684\u9152\u5E97\u9884\u8BA2\u667A\u80FD\u4F53\u8BBE\u8BA1\u4E0E\u5B9E\u73B0\\code\\init_data.sql",
+              "RelativeToolTip": "init_data.sql",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-11T10:02:56.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
